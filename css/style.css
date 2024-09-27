@@ -166,6 +166,11 @@ img {
     height: auto;
   }
 
+  .steps,
+  .why-us {
+    margin-bottom: 0;
+  }
+
   .steps .col img {
     height: auto;
     margin: 50px 0 20px;
@@ -173,6 +178,11 @@ img {
 
   .steps .col {
     width: 100%;
+  }
+
+  .why-us {
+    background-color: #222222;
+    padding: 50px 0;
   }
 
   .why-us .col-left {
